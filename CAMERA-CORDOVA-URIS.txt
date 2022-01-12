@@ -1,0 +1,12 @@
+https://remotestack.io/ionic-cordova-camera-plugin-integration-tutorial/
+
+https://edupala.com/ionic-cordova-plugin-camera/
+
+https://cordova.apache.org/docs/en/3.1.0/cordova/camera/parameter/cameraOptions.html
+
+
+https://ionicframework.com/blog/ionic-native-mocks/
+
+https://ionicframework.com/blog/storing-photos-with-the-cordova-camera-and-file-plugins/
+
+https://ionicframework.com/docs/angular/your-first-app/saving-photos
